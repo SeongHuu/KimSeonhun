@@ -1,0 +1,14 @@
+package Part4_Array;
+
+public class ForEachExample2 {
+
+	public static void main(String[] args) {
+		
+	int [] array = {1,5,3,2,4};
+	
+	for(int value:array) {
+		System.out.println(value);
+	}
+	}
+
+}

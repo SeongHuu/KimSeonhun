@@ -1,0 +1,9 @@
+package Part4_Array;
+
+public class ForEachExample2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
